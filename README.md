@@ -7,4 +7,8 @@ Early SA Data found in this block.
 
 https://explorer.solana.com/block/190687712
 
-``` ./client --slot <> --rpc <> ```
+required
+``` ./client --slot <> ```
+
+optional
+``` ./client --slot <> --rpc <> ``` 
