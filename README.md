@@ -1,5 +1,5 @@
 # staratlas_parser
---inital release Escape Velocity Parser
---program will parse the given slot and save it to a json object
+Inital release Escape Velocity Parser
+Program will parse the given slot and save it to a json object
 
 ``` ./client --slot <> --rpc <> ```
